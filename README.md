@@ -3,6 +3,7 @@
 <img align = "left" src='https://github.com/chaisemartinPackages/chaisemartinPackages/assets/125619230/4f291158-26c6-4e32-a2e4-d76e02a58249' width='100'/> 
 This profile hosts the R and Stata repositories of DiD estimators maintained by Clément de Chaisemartin and his ERC REALLYCREDIBLE Team. 
 The repositories include the source code, tests, data and help files that have been used for the packages listed below. 
+Please refer to the README files in the repositories for the references and Q&A related to each package.
 The email contact of the ERC Team is chaisemartin.packages@gmail.com.
 
 ### twowayfeweights

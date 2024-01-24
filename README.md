@@ -1,6 +1,6 @@
 # chaisemartinPackages
 ## Overview
-<img align = "left" src='https://github.com/chaisemartinPackages/chaisemartinPackages/assets/125619230/4f291158-26c6-4e32-a2e4-d76e02a58249' width='200'/> This repository 
+<img align = "left" src='https://github.com/chaisemartinPackages/chaisemartinPackages/assets/125619230/4f291158-26c6-4e32-a2e4-d76e02a58249' width='100'/> This repository 
 
 
 

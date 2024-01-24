@@ -5,8 +5,10 @@ This profile hosts the R and Stata repositories of DiD estimators maintained by 
 
 * [twowayfeweights](https://github.com/chaisemartinPackages/twowayfeweights.git): Estimates the weights attached to the two-way fixed effects regressions studied in [de Chaisemartin & D’Haultfoeuille (2020a)](https://www.aeaweb.org/articles?id=10.1257/aer.20181169) , as
 well as summary measures of these regressions’ robustness to heterogeneous treatment effects.
-[![](https://img.shields.io/badge/R-CRAN-green.svg)](https://cran.r-project.org/web/packages/TwoWayFEWeights/index.html)
-[![](https://img.shields.io/badge/Stata-SSC-blue.svg)](https://ideas.repec.org/c/boc/bocode/s458611.html)
+
+
+[![TWFE](https://img.shields.io/badge/R-CRAN-green.svg)](https://cran.r-project.org/web/packages/TwoWayFEWeights/index.html)
+[![TWFE](https://img.shields.io/badge/Stata-SSC-blue.svg)](https://ideas.repec.org/c/boc/bocode/s458611.html)
 
 
 

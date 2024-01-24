@@ -8,7 +8,8 @@ Please refer to the README files in the repositories for the references and Q&As
 The email contact of the ERC Team is chaisemartin.packages@gmail.com.
 
 ## Repositories
-1. [twowayfeweights](https://github.com/chaisemartinPackages/twowayfeweights.git): Estimates the weights attached to the two-way fixed effects regressions studied in [de Chaisemartin & D’Haultfoeuille (2020a)](https://www.aeaweb.org/articles?id=10.1257/aer.20181169), as well as summary measures of these regressions’ robustness to heterogeneous treatment effects.
+1. [twowayfeweights](https://github.com/chaisemartinPackages/twowayfeweights.git): Estimates the weights attached to the two-way fixed effects regressions studied in de Chaisemartin & D’Haultfoeuille ([2020a](https://www.aeaweb.org/articles?id=10.1257/aer.20181169)), as well as summary measures of these regressions’ robustness to heterogeneous treatment effects.
+2. [did_multiplegt](https://github.com/chaisemartinPackages/did_multiplegt.git): Estimation in Difference-in-Difference (DID) designs with multiple groups and periods based on de Chaisemartin & D'Haultfoeuille (
 
 ## Funding
 

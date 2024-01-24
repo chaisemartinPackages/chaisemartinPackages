@@ -12,7 +12,7 @@ The email contact of the ERC Team is chaisemartin.packages@gmail.com.
 
 ## Funding
 
-<img align = "left" src ='https://github.com/chaisemartinPackages/chaisemartinPackages/assets/125619230/099170e6-178a-43df-80fc-6233e7720d7d' width = '180'/> Funded by the European Union (ERC, REALLYCREDIBLE,GA N°101043899). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+<img align = "left" src ='https://github.com/chaisemartinPackages/chaisemartinPackages/assets/125619230/099170e6-178a-43df-80fc-6233e7720d7d' width = '190'/> Funded by the European Union (ERC, REALLYCREDIBLE,GA N°101043899). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
 
 
 

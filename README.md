@@ -7,9 +7,12 @@ All the packages in this profile are also hosted on the SSC (Stata) and CRAN (R)
 Please refer to the README files in the repositories for the references and Q&As related to each package.
 The email contact of the ERC Team is chaisemartin.packages@gmail.com.
 
-## Repositories
+## Packages
 1. [twowayfeweights](https://github.com/chaisemartinPackages/twowayfeweights.git): Estimates the weights attached to the two-way fixed effects regressions studied in de Chaisemartin & D’Haultfoeuille ([2020a](https://www.aeaweb.org/articles?id=10.1257/aer.20181169)), as well as summary measures of these regressions’ robustness to heterogeneous treatment effects.
 2. [did_multiplegt](https://github.com/chaisemartinPackages/did_multiplegt.git): Estimation in Difference-in-Difference (DID) designs with multiple groups and periods based on de Chaisemartin & D'Haultfoeuille ([2020a](https://www.aeaweb.org/articles?id=10.1257/aer.20181169), [2020b](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3731856), [2020c](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3751060)).
+
+This folder hosts also:
++ [ApplicationData](https://github.com/chaisemartinPackages/ApplicationData.git): datasets used in applications of de Chaisemartin and D'Haultfoeuille estimators.
 
 ## Funding
 

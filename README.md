@@ -15,6 +15,7 @@ The email contact of the ERC Team is chaisemartin.packages@gmail.com.
 
 This folder hosts also:
 + [ApplicationData](https://github.com/chaisemartinPackages/ApplicationData.git): datasets used in applications of de Chaisemartin and D'Haultfoeuille estimators.
++ [ReplicationPackages](https://github.com/chaisemartinPackages/ReplicationPackages.git): scripts used in applications of de Chaisemartin and D'Haultfoeuille estimators.
 
 ## Funding
 

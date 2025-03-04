@@ -15,7 +15,7 @@ The email contact of the ERC Team is chaisemartin.packages@gmail.com.
 5. [did_had](https://github.com/chaisemartinPackages/did_had): Heterogeneity-robust DID estimator in heterogeneous adoption designs without stayers but with some quasi-stayers, based on de Chaisemartin and D'Haultfoeuille ([2024b](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284811)).
 6. [yatchew_test](https://github.com/chaisemartinPackages/yatchew_test.git): Non-parametric test of the linearity of a conditional expectation, based on Yatchew ([1997](https://www.sciencedirect.com/science/article/pii/S0165176597002188?via%3Dihub)) and de Chaisemartin and D'Haultfoeuille ([2024b](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284811)).
 7. [stute_test](https://github.com/chaisemartinPackages/stute_test.git): Non-parametric test of the linearity of a conditional expectation, based on Stute ([1997](https://www.jstor.org/stable/2242560)).
-8. [multisite](https://github.com/chaisemartinPackages/multisite): Estimation of treatment-effect heterogeneity across sites in multi-site random experiments with few units per site, based on de Chaisemartin and Deeb ([2024]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284811](https://ssrn.com/abstract=4615304)).
+8. [multisite](https://github.com/chaisemartinPackages/multisite): Estimation of treatment-effect heterogeneity across sites in multi-site random experiments with few units per site, based on de Chaisemartin and Deeb ([2024](https://ssrn.com/abstract=4615304)).
 
 This folder hosts also:
 + [ApplicationData](https://github.com/chaisemartinPackages/ApplicationData.git): datasets used in applications of de Chaisemartin and D'Haultfoeuille estimators.
